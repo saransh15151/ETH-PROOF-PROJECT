@@ -1,4 +1,4 @@
-# Project Title
+# ETH-PROOF-PROJECT
 
 Understanding the basic functionality of Smart Contract and solidity language.
 
